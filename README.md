@@ -1,2 +1,2 @@
 # sitDownPls-project
-sitDownPls project project build
+sitDownPls project build
