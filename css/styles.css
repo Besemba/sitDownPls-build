@@ -3306,7 +3306,9 @@ picture {
 
 .cooperation__main-heading {
   grid-column: 1/span 3;
+  margin: 0;
   font-size: 32px;
+  font-weight: 400;
 }
 
 .cooperation__section {
